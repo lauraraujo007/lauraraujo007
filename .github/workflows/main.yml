@@ -30,7 +30,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#C084FC&color_dots=#161b22,#4c3a8a,#6C63FF,#8B5CF6,#C084FC
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#8EE6A0&color_dots=#EBAEB5,#8EE6A0,#E6E075,#AAAAF2,#91D2DB
 
       # guarda as imagens numa branch chamada "output"
       - name: push svg to the output branch
