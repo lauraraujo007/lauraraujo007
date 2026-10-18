@@ -7,7 +7,7 @@
 />
 
 <p align="center">
-  <img src="./foco.png" alt="Foco" width="50">
+  <img src="./foco.png" alt="Foco" width="100">
 </p>
 
 <!-- BADGES: troque os links (href) pelos seus -->
