@@ -37,28 +37,6 @@
 
 <br />
 
-<!-- SKILLS: para adicionar/remover ícones, mexa na lista depois de i=
-     Lista de ícones disponíveis: https://skillicons.dev -->
-<img src="https://img.shields.io/badge/SKILLS-A5D8FF?style=for-the-badge" alt="Skills" />
-
-<sub><samp>WEB</samp></sub>
-<br />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" />
-</a>
-
-<sub><samp>DADOS E VERSIONAMENTO</samp></sub>
-<br />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git" alt="MySQL, SQLite e Git" />
-</a>
-
-<br />
-<br />
-
-<!-- STATS: troque username=julialima1999 pelo seu usuário do GitHub.
-     CORES (sem #): title_color = título | icon_color = ícones | text_color = texto
-     bg_color = fundo | border_color = borda | ring_color = círculo da nota -->
 <img
   src="https://github-readme-stats.vercel.app/api?username=lauraraujo007&show_icons=true&locale=pt-br&custom_title=Stats&title_color=EBAEB5&icon_color=8EE6A0&text_color=FFFFFF&bg_color=0D1117&border_color=72CF86&ring_color=EBAEB5"
   alt="Stats do GitHub da Laura de Araujo"
@@ -76,3 +54,21 @@
 </picture>
 
 </div>
+
+<br />
+<br />
+
+<!-- SKILLS: para adicionar/remover ícones, mexa na lista depois de i=
+     Lista de ícones disponíveis: https://skillicons.dev -->
+<!-- <img src="./assets/skills-titulo.svg" alt="Skills" />
+
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=14&duration=2000&color=FFFFFF&start=true&vCenter=true&repeat=false&width=80&height=48&lines=WEB" alt="Web" /> <br />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" /> <br /><br />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=14&duration=2000&color=FFFFFF&start=true&vCenter=true&repeat=false&width=210&height=48&lines=DADOS+E+VERSIONAMENTO" alt="Dados e versionamento" />  <br />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git" alt="MySQL, SQLite e Git" />
+
+<br />
+<br /> -->
+
