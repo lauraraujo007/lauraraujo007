@@ -22,7 +22,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # gera as imagens da cobrinha (clara e escura)
+      # gera as imagens da cobrinha (clara e escura) sera que vai
       # CORES: color_snake = cobrinha | color_dots = quadradinhos (do vazio ao mais forte)
       - name: generate snake svg
         uses: Platane/snk/svg-only@v3
@@ -31,7 +31,7 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#EBAEB5&color_dots=#ebedf0,#EBAEB5,#72CF86,#8EE6A0,#DB8A93
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#EBAEB5&color_dots=#161b22,#72CF86,#EBAEB5,#8EE6A0,#DB8A93
-      # guarda as imagens numa branch chamada "output"
+
       - name: push svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
